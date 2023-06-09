@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
----
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
 
 <!--
 **vneshikj/vneshikj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
