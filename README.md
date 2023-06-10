@@ -23,7 +23,7 @@ I am penultimate Computer Systems Engineering student at the University of Auckl
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB)
+![MATLAB](https://img.shields.io/badge/MATLAB-3d50cc?style=for-the-badge)
 
 # GitHub Stats
 
