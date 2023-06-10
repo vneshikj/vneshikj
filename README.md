@@ -1,9 +1,6 @@
 ## Hi there👋, I'm Viktor
 
-I am penultimate Computer Systems Engineering student at the University of Auckland. I'm deeply passionate about embedded systems, and find great joy working in teams to bring projects to life.
-
-### 
-
+I am a penultimate Computer Systems Engineering student at the University of Auckland. I'm deeply passionate about embedded systems and find great joy in working in teams to bring projects to life.
 
 ### My Favourite Tools
 
@@ -55,6 +52,8 @@ I am penultimate Computer Systems Engineering student at the University of Auckl
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+<!-- ## Statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vneshikj&hide=stars,issues&show_icons=true&theme=tokyonight&custom_title=Viktor's%20GitHub%20Statistics&hide_rank=true) ==>
 
 
 
