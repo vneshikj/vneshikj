@@ -14,8 +14,8 @@ I am penultimate Computer Systems Engineering student at the University of Auckl
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-#427ef5?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-#f0f0f2?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-427ef5?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-f0f0f2?style=for-the-badge)
 
 #### Embedded Systems
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
