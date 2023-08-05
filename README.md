@@ -26,7 +26,6 @@ I am a penultimate Computer Systems Engineering student at the University of Auc
 ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-EE3233?style=for-the-badge)
 ![LTspice](https://img.shields.io/badge/LTspice-8E0A26?style=for-the-badge)
 ![ATmega328PB](https://img.shields.io/badge/ATmega328PB-ed1b2d?style=for-the-badge)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ###### Frameworks and Libraries
 ![PyQt](https://img.shields.io/badge/PYQT5-10c93e?style=for-the-badge&logo=qt&logoColor=white)
