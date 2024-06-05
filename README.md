@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Viktor
 
-I am a penultimate Computer Systems Engineering student at the University of Auckland. I'm deeply passionate about embedded systems and find great joy in working in teams to bring projects to life.
+I final year Computer Systems Engineering student at the University of Auckland. I'm deeply passionate about embedded systems and find great joy working in teams to bring projects to life.
 
 ### My Favourite Tools
 
@@ -17,15 +17,19 @@ I am a penultimate Computer Systems Engineering student at the University of Auc
 ![MATLAB](https://img.shields.io/badge/MATLAB-427ef5?style=for-the-badge)
 ![VHDL](https://img.shields.io/badge/VHDL-f0f0f2?style=for-the-badge)
 
-###### Embedded Systems and Operating Systems
+###### Embedded Systems
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus_Prime-00285A?style=for-the-badge)
 ![ModelSim](https://img.shields.io/badge/ModelSim-0000FF?style=for-the-badge)
 ![Cyclone V FPGA](https://img.shields.io/badge/Cyclone_V_FPGA-0067a5?style=for-the-badge)
 ![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge)
 ![Microchip Studio](https://img.shields.io/badge/Microchip_Studio-EE3233?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-8E0A26?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-8E0A26?style=for-the-badge&logo=ltspice&logoColor=white)
 ![ATmega328PB](https://img.shields.io/badge/ATmega328PB-ed1b2d?style=for-the-badge)
+![Cypress PSoC 5LP](https://img.shields.io/badge/PSoC_5LP-17202c?style=for-the-badge&logo=cypress&logoColor=white)
+![Cypress PSoC Creator](https://img.shields.io/badge/PSoC_Creator-17202c?style=for-the-badge&logo=cypress&logoColor=white)
+![Arm Cortex M3](https://img.shields.io/badge/Arm_Cortex_M3-0091bd?style=for-the-badge&logo=arm&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-a22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ###### Frameworks and Libraries
 ![PyQt](https://img.shields.io/badge/PYQT5-10c93e?style=for-the-badge&logo=qt&logoColor=white)
