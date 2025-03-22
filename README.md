@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Viktor
 
-I final year Computer Systems Engineering student at the University of Auckland. I'm deeply passionate about embedded systems and find great joy working in teams to bring projects to life.
+I'm deeply passionate about embedded systems and find great joy working in teams to bring projects to life.
 
 ### My Favourite Tools
 
@@ -31,6 +31,7 @@ I final year Computer Systems Engineering student at the University of Auckland.
 ![Cypress PSoC Creator](https://img.shields.io/badge/PSoC_Creator-17202c?style=for-the-badge&logo=cypress&logoColor=white)
 ![Arm Cortex M3](https://img.shields.io/badge/Arm_Cortex_M3-0091bd?style=for-the-badge&logo=arm&logoColor=white)
 ![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-a22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry_Pi_5-a22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![SCCharts](https://img.shields.io/badge/SCCharts-6fc92a?style=for-the-badge)
 ![PIC24HJ32](https://img.shields.io/badge/PIC24HJ32-c77334?style=for-the-badge&logo)
 ![MPLAB X](https://img.shields.io/badge/MPLAB_X-536d78?style=for-the-badge)
@@ -43,6 +44,9 @@ I final year Computer Systems Engineering student at the University of Auckland.
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![React](https://img.shields.io/badge/React-2f3036?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 ###### Other Tools
