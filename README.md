@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Viktor
 
-I'm deeply passionate about embedded systems and find great joy working in teams to bring projects to life.
+Passionate about embedded systems and bringing projects to life.
 
 ### My Favourite Tools
 
